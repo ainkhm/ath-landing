@@ -1,3 +1,3 @@
-# Adyen Website Clone
+# ATH Landing
 
-[Preview](https://mohammedagl6.github.io/Adyen-Website-Clone)
+[Preview](https://ainkhm.github.io/ath-landing/index.html)
